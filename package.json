@@ -1,0 +1,26 @@
+{
+  "name": "template-gatsby-startup",
+  "version": "1.0.0",
+  "description": "Gatsby blog startup for instagrammer and photographers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsaydali/template-gatsby-startup.git"
+  },
+  "keywords": [
+    "Gatsbyjs",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Tailwind"
+  ],
+  "author": "Marwan Alsaydali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsaydali/template-gatsby-startup/issues"
+  },
+  "homepage": "https://github.com/alsaydali/template-gatsby-startup#readme"
+}
